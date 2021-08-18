@@ -1,16 +1,19 @@
-<h2>Olá, pessoal! Meu nome é Beto, sejam bem vindos ao meu github!</h2>
+<hr>
+<h3>Olá, pessoal! Meu nome é Beto, sejam bem vindos ao meu github!</h3>
+<h5>Atualmente, curso Sistemas de Informação pela UFS e estou seguindo o caminho de desenvolvedor web</h5>
 <div>
   <img height="180em" src="https://cdn.discordapp.com/attachments/801998263103651860/877601242971521064/gif-github.gif" alt="Beto-GIF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanpluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
-<br>
-<h2>Essas são as linguagens que eu mais utilizo: </h2>
+<hr>
+<h3>Essas são as linguagens que eu mais utilizo: </h3>
 <div>
   <img alt="Beto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+<hr>
  <!--
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
