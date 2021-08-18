@@ -1,6 +1,5 @@
 <hr>
 <h3>Olá, pessoal! Meu nome é Beto, sejam bem vindos ao meu github!</h3>
-<h5>Atualmente, curso Sistemas de Informação pela UFS e estou seguindo o caminho de desenvolvedor web</h5>
 <div>
   <img height="180em" src="https://cdn.discordapp.com/attachments/801998263103651860/877601242971521064/gif-github.gif" alt="Beto-GIF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanpluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
