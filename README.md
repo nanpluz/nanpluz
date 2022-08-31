@@ -16,6 +16,6 @@
 </div>
 <hr>
 <h2 align=center>E esse aqui é o meu e-mail: </h2>
-<div align=center><a href="mailto:nanpluz@gmail.com"><img alt="Beto-MAIL" height="40" width="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"></a></div>
+<div align=center><a href="mailto:contato.umbertinho@gmail.com"><img alt="Beto-MAIL" height="40" width="40" src="https://img.icons8.com/color/48/000000/gmail--v1.png"></a></div>
 <div align=center>\o/</div>
 <hr>
